@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I was the best of wisasdfadfsadom.It was the worst of fooshlishnaadfssdfsfsess .
+=======
+I was the best of wisasdffsdsfadom.It was the worst of fooshlishnasfdfssdfsess .
+>>>>>>> alien-plot

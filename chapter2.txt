@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the spring of credestrsdfation. It was the winter of destdfasrucsdftions.
+=======
+It was the spring of credestradfsdsftion. It was the winter of destdfasrfssdfsductions.
+>>>>>>> alien-plot
